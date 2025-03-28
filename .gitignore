@@ -1,0 +1,5 @@
+# L'ensemble des fichiers contenus dans le dossier "data" seront pas transmis sur Git
+data/
+
+# Ignorer le .venv
+.venv/
