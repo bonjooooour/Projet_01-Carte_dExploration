@@ -17,6 +17,7 @@ comm==0.2.2
 debugpy==1.8.13
 decorator==5.2.1
 executing==2.2.0
+fitparse==1.2.0
 folium==0.19.5
 gpx-converter==2.1.0
 gpxpy==1.6.2

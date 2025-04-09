@@ -3,3 +3,4 @@ data/
 
 # Ignorer le .venv
 .venv/
+.qodo
