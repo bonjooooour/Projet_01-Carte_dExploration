@@ -1,6 +1,4 @@
 """
-01_photos_metadata_to_csv.py 
-
 - Collecte locale des métadonnées des photos de l'application Apple Photos 
 - Pour les photos disposant de données de localisation, stockage [nom, date, longitude, latitude] dans un fichier CSV
 """
@@ -9,6 +7,7 @@
 ### Librairies ###
 import osxphotos
 import pandas as pd
+
 
 
 ### Utilisation du module OSXPhotos ###
