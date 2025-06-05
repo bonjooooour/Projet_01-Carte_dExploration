@@ -13,19 +13,19 @@ Users can fully customize the map using data from their own activities and it ev
 
 **Overview of the World:**
 
-![Overview of the World:](data/05_readme_images_and_videos/Final_exploration_map_overview_screenshot_overview.png)
+![Overview of the World:](data/05_final_result_screenshots/Final_exploration_map_overview_screenshot_overview.png)
 
 
 **Zoomed view on Paris, France:**
 
-![Zoomed view on Paris, France:](data/05_readme_images_and_videos/Final_exploration_map_overview_screenshot_paris.png)
+![Zoomed view on Paris, France:](data/05_final_result_screenshots/Final_exploration_map_overview_screenshot_paris.png)
 
 
 **Complete video demonstration:**
 
 <p align="center">
-  <a href="data/05_readme_images_and_videos/Final_exploration_map_overview_video.mp4">
-    <img src="data/05_readme_images_and_videos/icon_video.png" alt="Watch video" width="50"/>
+  <a href="data/05_final_result_screenshots/Final_exploration_map_overview_video.mp4">
+    <img src="data/05_final_result_screenshots/icon_video.png" alt="Watch video" width="50"/>
   </a>
 </p>
 
