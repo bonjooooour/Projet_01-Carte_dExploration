@@ -1,8 +1,8 @@
-# Ignorer l'ensemble du dossier data, sauf le dossier enfant 05_final_result_screenshots
+# Ignorer l'ensemble du dossier data/, sauf le dossier enfant 05_final_result_screenshots/
 data/*
 !data/05_final_result_screenshots/
 
 
-# Ignorer le .venv
+# Ignorer le .venv/
 .venv/
 .qodo
