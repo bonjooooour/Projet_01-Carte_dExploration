@@ -1,0 +1,7 @@
+REQUIRED_DIRECTORIES :
+
+01_strava_RAW_files/activities
+02_intermediate_CSV_files
+03_final_DATAFRAME_files
+04_final_FOLIUM_MAP
+05_final_result_screenshots
