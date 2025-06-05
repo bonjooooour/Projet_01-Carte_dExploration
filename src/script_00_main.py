@@ -21,7 +21,7 @@ import script_01_apple_photos_data_scrap_to_csv as script_01
 import script_02_strava_activities_data_to_csv as script_02
 import script_03_multiple_to_one_csv as script_03
 import script_04_data_reduction_algorithm as script_04
-import script_05_folium_exploration_map as script_05
+import script_05_folium_map_generator as script_05
 
 
 
@@ -36,17 +36,17 @@ FINAL_CSV_FILES_FOLDER = 'data/03_final_DATAFRAME_files'
 FINAL_FOLIUM_MAP_FOLDER = 'data/04_final_FOLIUM_MAP'
 
 
-# ### Script 01 ### 
-# # Collecte depuis ma librairie Apple Photos les métadonnées de positions, 
-# # puis les stockage dans un fichier CSV normalisé.
-# script_01.main_01(CSV_FILES_FOLDER) 
-# print('\nscript 01 : ✅\n\n')
+### Script 01 ### 
+# Collecte depuis ma librairie Apple Photos les métadonnées de positions, 
+# puis les stockage dans un fichier CSV normalisé.
+script_01.main_01(CSV_FILES_FOLDER) 
+print('\nscript 01 : ✅\n\n')
 
 
-# ### Script 02 ###
-# # Conversion des données d'activités Strava en fichiers CSV normalisés.
-# script_02.main_02(SRTAVA_RAW_DATA_FOLDER, CSV_FILES_FOLDER)
-# print('\nscript 02 : ✅\n\n')
+### Script 02 ###
+# Conversion des données d'activités Strava en fichiers CSV normalisés.
+script_02.main_02(SRTAVA_RAW_DATA_FOLDER, CSV_FILES_FOLDER)
+print('\nscript 02 : ✅\n\n')
 
 
 ### Script 03 ###

@@ -1,12 +1,8 @@
-# L'ensemble des fichiers contenus dans le dossier "data", sauf "05_final_result_screenshots" seront pas transmis sur Git :
-
-data/01_strava_RAW_files/activities
-data/02_intermediate_CSV_files
-data/03_final_DATAFRAME_files
-data/04_final_FOLIUM_MAP
+# Ignorer l'ensemble du dossier data, sauf le dossier enfant 05_final_result_screenshots
+data/*
+!data/05_final_result_screenshots/
 
 
 # Ignorer le .venv
-
 .venv/
 .qodo
