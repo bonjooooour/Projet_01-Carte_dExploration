@@ -102,8 +102,3 @@ Contributions are welcome! To contribute, please follow these steps:
 ### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-### Contact
-
-For any questions or comments, please contact me at **m.gerenius@outlook.com**.
